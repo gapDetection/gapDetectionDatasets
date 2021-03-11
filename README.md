@@ -12,7 +12,7 @@ Image
 ![Alt text](./GroZi-120/Train/Images/001.jpg?raw=true "Title")
 
 Mask
-![Alt text](./GroZi-120/Train/Masks/001.tiff?raw=true "Title")
+![Alt text](./001.jpg?raw=true "Title")
 
 
 
