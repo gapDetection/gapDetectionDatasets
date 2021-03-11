@@ -18,7 +18,7 @@ Mask
 ### Grocery Products
 
 Image
-![Alt text](./Grocery Products/Train/Images/268.jpg?raw=true "Title")
+![Alt text](./268_Image.jpg?raw=true "Title")
 
 Mask
 ![Alt text](./268.jpg?raw=true "Title")
