@@ -2,7 +2,7 @@
 
 Here, we provide the annotations of the publicly available datasets Grocery Products [1], WebMarket [2] and Grozi 120 [3] for identification of gaps in the images of shelves.
 
-Title of the manuscript (which is submitted in CVPR 2021) - Identification of Empty Shelves in Supermarkets using Domain-inspired Features with Structural Support Vector Machine
+Title of the manuscript (which is submitted in ICCV 2021) - Automatic Identification of Empty Shelves in Supermarkets
 
 
 
