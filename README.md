@@ -23,6 +23,15 @@ Image
 Mask
 ![Alt text](./268.jpg?raw=true "Title")
 
+
+### WebMarket
+
+Image
+![Alt text](./WebMarket/Train/Images/db251.jpg?raw=true "Title")
+
+Mask
+![Alt text](./db251.jpg?raw=true "Title")
+
 REFERENCES:</br>
 [1] Marian George and Christian Floerkemeier. Recognizing products: A per-exemplar multi-label image classification approach. In European Conference on Computer Vision, pages 440–455. Springer, 2014 </br>
 [2] Yuhang Zhang, Lei Wang, Richard Hartley, and Hongdong Li. Where's the weet-bix? In Asian Conference on Computer Vision, pages 800–810. Springer, 2007 </br>
