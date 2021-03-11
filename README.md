@@ -1,6 +1,6 @@
 # Datasets for Identification of Gaps in the Images of Shleves in Supermarkets
 
-Here, we provide the annotations of the publicly available datasets Grocery Products [1], WebMarket [2] and Grozi 120 [3] for identification of gaps in the images of shelves.
+Here, we provide the annotations of the publicly available datasets: Grocery Products [1], WebMarket [2] and Grozi 120 [3] for identification of gaps in the images of shelves.
 
 Title of the manuscript (which is submitted in ICCV 2021) - Automatic Identification of Empty Shelves in Supermarkets
 
