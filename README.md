@@ -6,7 +6,7 @@ Title of the manuscript (which is submitted in ICCV 2021) - Automatic Identifica
 
 A few example images and their corresponding masks are shown below.
 
-### GroZi-120
+## GroZi-120
 
 Image
 ![Alt text](./GroZi-120/Train/Images/001.jpg?raw=true "Title")
@@ -15,7 +15,7 @@ Mask
 ![Alt text](./001.jpg?raw=true "Title")
 
 
-### Grocery Products
+## Grocery Products
 
 Image
 ![Alt text](./268_Image.jpg?raw=true "Title")
@@ -24,7 +24,7 @@ Mask
 ![Alt text](./268.jpg?raw=true "Title")
 
 
-### WebMarket
+## WebMarket
 
 Image
 ![Alt text](./WebMarket/Train/Images/db251.jpg?raw=true "Title")
