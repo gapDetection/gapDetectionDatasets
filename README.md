@@ -15,6 +15,13 @@ Mask
 ![Alt text](./001.jpg?raw=true "Title")
 
 
+### Grocery Products
+
+Image
+![Alt text](./Grocery Products/Train/Images/268.jpg?raw=true "Title")
+
+Mask
+![Alt text](./268.jpg?raw=true "Title")
 
 REFERENCES:</br>
 [1] Marian George and Christian Floerkemeier. Recognizing products: A per-exemplar multi-label image classification approach. In European Conference on Computer Vision, pages 440–455. Springer, 2014 </br>
