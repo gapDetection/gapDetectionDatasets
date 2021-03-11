@@ -4,6 +4,10 @@ Here, we provide the annotations of the publicly available datasets Grocery Prod
 
 Title of the manuscript (which is submitted in ICCV 2021) - Automatic Identification of Empty Shelves in Supermarkets
 
+A few sampl images and their corresponding masks are shown below.
+
+### GROZI
+![Alt text](./?raw=true "Title")
 
 
 REFERENCES:</br>
