@@ -2,7 +2,7 @@
 
 Here, we provide the annotations of the publicly available datasets: Grocery Products [1], WebMarket [2] and Grozi 120 [3] for identification of gaps in the images of shelves. We select 305,98, and 50 number of shelf images respectively from Grocery Products [1], WebMarket [2] and Grozi 120 [3], and create ground truths pecifying gap/non-gap regions. For each dataset, we randomly choose approximately 60% of these shelf images as train-set and rest 40% as test-set. The train-set includes 184, 59, and 30 number of shelf images in Grocery Products [1], WebMarket [2] and Grozi 120 [3] respectively while test-set contains 121, 39, and 20 number of images in the respective datasets.
 
-Title of the manuscript (which is submitted in ICCV 2021) - Graph-based Modelling of Superpixels for Automatic Identification of EmptyShelves in Supermarkets
+<b>Title</b> of the manuscript (which is submitted in ICCV 2021) - Graph-based Modelling of Superpixels for Automatic Identification of EmptyShelves in Supermarkets
 
 A few example images and their corresponding masks are shown below.
 
@@ -32,7 +32,7 @@ Image
 Mask
 ![Alt text](./db251.jpg?raw=true "Title")
 
-REFERENCES:</br>
+<b>References:</b></br>
 [1] Marian George and Christian Floerkemeier. Recognizing products: A per-exemplar multi-label image classification approach. In European Conference on Computer Vision, pages 440–455. Springer, 2014 </br>
 [2] Yuhang Zhang, Lei Wang, Richard Hartley, and Hongdong Li. Where's the weet-bix? In Asian Conference on Computer Vision, pages 800–810. Springer, 2007 </br>
 [3] Michele Merler, Carolina Galleguillos, and Serge Belongie. Recognizing groceries in situ using in vitro training data. In Computer Vision and Pattern Recognition, 2007. CVPR'07. IEEE Conference on, pages 1–8. IEEE, 2007. </br>
