@@ -6,7 +6,7 @@ Here, we provide the annotations of the publicly available datasets: Grocery Pro
 
 <b>Authors</b>: Bikash Santra, Udita Ghosh, and Dipti Prasad Mukherjee, Indian Statistical Institute, Kolkata
 
-If you use these datasets now, then you can cite this github link.
+If you use these datasets now, then you can cite this github repository. 
 
 A few example images and their corresponding masks are shown below.
 
