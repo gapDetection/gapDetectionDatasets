@@ -9,14 +9,14 @@ Here, we provide the annotations of the publicly available datasets: Grocery Pro
 <b>Authors</b>: Bikash Santra, Udita Ghosh, and Dipti Prasad Mukherjee, Indian Statistical Institute, Kolkata
 
 ## Citing
-If you use these datasets now, then you can cite this github repository. The BibTeX entry is the following.<br>
-@misc{Yakubovskiy:2019,
-  Author = {Santra, Bikash and Ghosh, Udita and Mukherjee, Dipti Prasad},
-  Title = {Datasets for Identification of Gaps in the Images of Shleves in Supermarkets},
-  Year = {2021},
-  Publisher = {GitHub},
-  Journal = {GitHub repository},
-  Howpublished = {\url{https://github.com/gapDetection/gapDetectionDatasets}}
+If you use these datasets now, then you can cite this github repository. The BibTeX entry is the following.<br><br>
+@misc{Yakubovskiy:2019,<br>
+  Author = {Santra, Bikash and Ghosh, Udita and Mukherjee, Dipti Prasad},<br>
+  Title = {Datasets for Identification of Gaps in the Images of Shleves in Supermarkets},<br>
+  Year = {2021},<br>
+  Publisher = {GitHub},<br>
+  Journal = {GitHub repository},<br>
+  Howpublished = {\url{https://github.com/gapDetection/gapDetectionDatasets}}<br>
 }
 
 
