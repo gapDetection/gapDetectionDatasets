@@ -10,7 +10,7 @@ Here, we provide the annotations of the publicly available datasets: Grocery Pro
 
 ## Citing
 If you use these datasets now, then you can cite this github repository. The BibTeX entry is the following.<br><br>
-@misc{Yakubovskiy:2019,<br>
+@misc{gap:datasets:2021,<br>
   Author = {Santra, Bikash and Ghosh, Udita and Mukherjee, Dipti Prasad},<br>
   Title = {Datasets for Identification of Gaps in the Images of Shleves in Supermarkets},<br>
   Year = {2021},<br>
