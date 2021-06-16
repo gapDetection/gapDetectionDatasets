@@ -22,7 +22,7 @@ If you use these datasets now, then you can cite this github repository. The Bib
 ## Example Images
 A few example images and their corresponding masks are shown below.
 
-## GroZi-120
+### 1) GroZi-120 
 
 Image
 ![Alt text](./GroZi-120/Train/Images/001.jpg?raw=true "Title")
@@ -31,7 +31,7 @@ Mask
 ![Alt text](./001.jpg?raw=true "Title")
 
 
-## Grocery Products
+### 3) Grocery Products
 
 Image
 ![Alt text](./268_Image.jpg?raw=true "Title")
@@ -40,7 +40,7 @@ Mask
 ![Alt text](./268.jpg?raw=true "Title")
 
 
-## WebMarket
+### 2) WebMarket
 
 Image
 ![Alt text](./WebMarket/Train/Images/db251.jpg?raw=true "Title")
