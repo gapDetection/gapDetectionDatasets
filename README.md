@@ -31,7 +31,7 @@ Mask
 ![Alt text](./001.jpg?raw=true "Title")
 
 
-### 3) Grocery Products
+### 2) Grocery Products
 
 Image
 ![Alt text](./268_Image.jpg?raw=true "Title")
@@ -40,7 +40,7 @@ Mask
 ![Alt text](./268.jpg?raw=true "Title")
 
 
-### 2) WebMarket
+### 3) WebMarket
 
 Image
 ![Alt text](./WebMarket/Train/Images/db251.jpg?raw=true "Title")
