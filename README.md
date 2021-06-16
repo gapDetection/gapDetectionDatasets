@@ -2,9 +2,9 @@
 
 Here, we provide the annotations of the publicly available datasets: Grocery Products [1], WebMarket [2] and Grozi 120 [3] for identification of gaps in the images of shelves. We select 305,98, and 50 number of shelf images respectively from Grocery Products [1], WebMarket [2] and Grozi 120 [3], and create ground truths pecifying gap/non-gap regions. For each dataset, we randomly choose approximately 60% of these shelf images as train-set and rest 40% as test-set. The train-set includes 184, 59, and 30 number of shelf images in Grocery Products [1], WebMarket [2] and Grozi 120 [3] respectively while test-set contains 121, 39, and 20 number of images in the respective datasets.
 
-<b>Title</b> of the manuscript (which is submitted in a journal) - Graph-based Modelling of Superpixels for Automatic Identification of EmptyShelves in Supermarkets
+<b>Title of the manuscript (which is submitted in a journal):</b> - Graph-based Modelling of Superpixels for Automatic Identification of Empty Shelves in Supermarkets
 
-Authors: Bikash Santra, Udita Ghosh, and Dipti Prasad Mukherjee, Indian Statistical Institute, Kolkata
+<b>Authors</b>: Bikash Santra, Udita Ghosh, and Dipti Prasad Mukherjee, Indian Statistical Institute, Kolkata
 
 If you use these datasets now, then you can cite this github link.
 
