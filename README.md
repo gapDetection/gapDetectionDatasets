@@ -6,7 +6,9 @@ Here, we provide the annotations of the publicly available datasets: Grocery Pro
 ## The manuscript, which is submitted in a journal
 <b>Title of the manuscript:</b> - Graph-based Modelling of Superpixels for Automatic Identification of Empty Shelves in Supermarkets
 
-<b>Authors</b>: Bikash Santra, Udita Ghosh, and Dipti Prasad Mukherjee, Indian Statistical Institute, Kolkata
+<b>Authors</b>: Bikash Santra*, Udita Ghosh*, and Dipti Prasad Mukherjee, Indian Statistical Institute, Kolkata
+
+*These authors have the eaual contributions.
 
 ## Citing these gap detection datasets
 If you use these datasets now, then you can cite this github repository. The BibTeX entry is the following.<br><br>
