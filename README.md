@@ -26,7 +26,7 @@ doi = {https://doi.org/10.1016/j.patcog.2022.108627}<br>
 
 @misc{gap:datasets:2021,<br>
   Author = {Santra, Bikash and Ghosh, Udita and Mukherjee, Dipti Prasad},<br>
-  Title = {Datasets for Identification of Gaps in the Images of Shleves in Supermarkets},<br>
+  Title = {Datasets for Identification of Gaps in the Images of Shelves in Supermarkets},<br>
   Year = {2021},<br>
   Publisher = {GitHub},<br>
   Journal = {GitHub repository},<br>
