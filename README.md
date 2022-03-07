@@ -8,7 +8,7 @@ Here, we provide the annotations of the publicly available datasets: Grocery Pro
 <b>Authors</b>: Bikash Santra**, Udita Ghosh**, and Dipti Prasad Mukherjee, Indian Statistical Institute, Kolkata<br>
 <b>Journal</b>: Pattern Recognition
 
-* The pre-print is avaialble [here](http://www.bikashsantra.byethost7.com/pdfs/gap_PR.pdf).<br>
+\* The pre-print is avaialble [here](http://www.bikashsantra.byethost7.com/pdfs/gap_PR.pdf).<br>
 ** These authors have the eaual contributions.
 
 ## Citing these gap detection datasets
