@@ -12,7 +12,7 @@ Here, we provide the annotations of the publicly available datasets: Grocery Pro
 ** These authors have the eaual contributions.
 
 ## Citing these gap detection datasets
-If you use these datasets now, then you can cite this github repository. The BibTeX entry is the following.<br><br>
+If you use these datasets, then you must appreciate our effort by citing the published article for these datasets and this github repository. The BibTeX entries are the following.<br>
 
 @article{santra2022graph,<br>
 title = {Graph-based Modelling of Superpixels for Automatic Identification of Empty Shelves in Supermarkets},<br>
@@ -22,7 +22,6 @@ year = {2022},<br>
 issn = {0031-3203},<br>
 doi = {https://doi.org/10.1016/j.patcog.2022.108627}<br>
 }
-
 
 @misc{gap:datasets:2021,<br>
   Author = {Santra, Bikash and Ghosh, Udita and Mukherjee, Dipti Prasad},<br>
