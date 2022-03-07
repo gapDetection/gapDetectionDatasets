@@ -9,7 +9,7 @@ Here, we provide the annotations of the publicly available datasets: Grocery Pro
 <b>Journal</b>: Pattern Recognition
 
 \* The pre-print is avaialble [here](http://www.bikashsantra.byethost7.com/pdfs/gap_PR.pdf).<br>
-** These authors have the eaual contributions.
+** These authors have the equal contributions.
 
 ## Citing these gap detection datasets
 If you use these datasets, then you must appreciate our effort by citing the published article for these datasets and this github repository. The BibTeX entries are the following.<br>
