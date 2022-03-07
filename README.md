@@ -17,6 +17,7 @@ If you use these datasets, then you must appreciate our effort by citing the pub
 @article{santra2022graph,<br>
 title = {Graph-based Modelling of Superpixels for Automatic Identification of Empty Shelves in Supermarkets},<br>
 journal = {Pattern Recognition},<br>
+author = {Bikash Santra and Udita Ghosh and Dipti Prasad Mukherjee},<br>
 pages = {108627},<br>
 year = {2022},<br>
 issn = {0031-3203},<br>
